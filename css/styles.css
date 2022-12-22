@@ -1,0 +1,112 @@
+
+body{ text-align: center; margin: 0%;
+    padding-top: 20px;
+    font-family: 'Fondamento', cursive;background-color: #FFE5F1;
+    font-size: 2rem;
+    
+      }
+h1{margin:0 auto ;
+    padding-top: 100px;
+    position: relative;
+    right: 20%;
+    font-family: 'Dancing Script', cursive;
+    width: 10px;font-size: 4rem;
+    margin: 50px auto 0px auto ;
+    color: #66BFBF;
+    line-height: 4px;
+    }
+    
+
+h3{  
+    color: #66BFBF;    
+       font-size: 2rem; font-weight: normal;
+       margin-bottom: 0%;
+
+
+        }
+h2{
+    color:#11999E ;
+    font-weight: normal;
+    
+}
+.bottom-container{color:red;}
+
+
+div{   
+    padding: 5px;   }
+.cloud1{
+    position: absolute;
+    right: 200px;
+    
+}
+
+.cloud2{
+    position: absolute;
+}
+
+.skill-row{
+    width: 50%;
+     margin: auto;
+    text-align: left;
+    line-height: 1;
+    
+    
+}
+.im1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.im2{
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+}
+.para1{
+    width:50% ;
+    margin: auto;
+  }
+.btn {
+    background: #2980b9;
+    background-image: -webkit-linear-gradient(top, #2980b9, #2980b9);
+    background-image: -moz-linear-gradient(top, #2980b9, #2980b9);
+    background-image: -ms-linear-gradient(top, #2980b9, #2980b9);
+    background-image: -o-linear-gradient(top, #2980b9, #2980b9);
+    background-image: linear-gradient(to bottom, #2980b9, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #2980b9;
+    background-image: -webkit-linear-gradient(top, #2980b9, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #2980b9, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #2980b9, #2bc4ad);
+    background-image: -o-linear-gradient(top, #2980b9, #2bc4ad);
+    background-image: linear-gradient(to bottom, #2980b9, #2bc4ad);
+    text-decoration: none;
+  }
+  a{color: red;}
+  .bottom-container{
+    background-color:lightgreen;
+    font-family: 'Fondamento', cursive;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  a:hover{
+    color: white;
+  }
+hr{
+    color: red;
+    border: dashed;
+    width: 30%;
+    border-radius: 50%;
+}
+
